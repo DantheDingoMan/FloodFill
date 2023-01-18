@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
-"""
-`anomalycounter` implementation
-
-@authors: Roman Yasinovskyy
-@version: 2021.10
-"""
-
+# Solution by Aidan Schooling
 from pathlib import Path
 
 def fill(filelists, positionx, positiony):
